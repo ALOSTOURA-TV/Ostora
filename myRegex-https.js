@@ -1,3 +1,4 @@
+<script>
 var isChrome = window.chrome;
 var myVendorName = window.navigator.vendor;
 var urlButtons = document.querySelectorAll(".url-button");
@@ -81,3 +82,4 @@ ExoPlayer.onkeydown = function() {
         	}
     }
 };
+</script>
