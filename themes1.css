@@ -1,0 +1,30 @@
+*{-webkit-tap-highlight-color:transparent;user-select:none;margin:0;padding:0;box-sizing:border-box;outline:none;user-select:none;}
+body{
+            background-image: url(https://i.imgur.com/GSEOPNw.jp)!important;
+            background-position: center center!important;
+            background-size: cover!important;
+            background-repeat: no-repeat!important;
+            background-attachment: fixed!important;
+            }
+        b{font-size:20px}
+        p{display: block;}
+        a:link, a:visited {color: #f33846;text-decoration: none;transition: all .3s;}
+        body{font-family: 'Changa', sans-serif;}
+      	::selection {
+          background: #f1c40f;
+          color: #fff;
+          text-shadow: none;}
+          .bottom{text-decoration: none;transition: all .3s;}
+        </style>
+    <style>
+:root{
+--plyr-color-main:#222;
+--plyr-video-control-color:#007654/*#ff0030*/;}
+.plyr--video{background:#fff;height:100%;overflow: hidden;}
+.column{grid-template-columns: repeat(4,minmax(0,1fr));}
+.grid{display:grid;gap:0.25rem;padding:0.25rem;}
+.relative{position:relative;}
+img,svg{max-width:100%;height:119px;border-radius:10px;}
+.w-full{display:block;width:100%;}
+@media (orientation:landscape){
+.column{grid-template-columns:repeat(5,minmax(0,1fr));}}
