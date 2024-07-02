@@ -4,7 +4,7 @@
     left: 20px; /* Changed from 'right' to 'left' */
     width: 50px;
     height: 50px;
-    background-color: #FF0000;
+    background-color: #210f80;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@
 }
 
 .floating-button:hover {
-    background-color: #DD0000;
+    background-color: #fbd034;
     transform: scale(1.1);
 }
 
@@ -544,7 +544,7 @@ figure img {
 
 /* Reset margin and padding for the whole page */
 body {
-  background: radial-gradient(circle, #FF3333, #770000);
+  background: radial-gradient(circle, #000000, #000000);
   margin: 0;
   padding: 0;
 }
@@ -557,7 +557,7 @@ body {
 
 nav {
   font-family: 'Exo 2', sans-serif;
-  background: radial-gradient(circle, #FF3333, #770000);
+  background: radial-gradient(circle, #000000, #000000);
   color: #fff;
   display: flex;
   justify-content: space-between;
@@ -687,7 +687,7 @@ body::after {
 
 nav {
   font-family: 'Exo 2', sans-serif;
-  background: radial-gradient(circle, #FF3333, #770000);
+  background: radial-gradient(circle, #FFFFFF, #770000);
   color: #fff;
   display: flex;
   justify-content: space-between;
@@ -791,7 +791,7 @@ nav .nav-links li {
 }
 
 footer {
-  background-color: radial-gradient(circle, #FF3333, #770000);
+  background-color: radial-gradient(circle, #000000, #000000);
   padding: 10px 0;
   width: 100%;
   bottom: 0; /* Position the footer at the bottom */
