@@ -633,7 +633,7 @@ body::after {
   left: 0;
   width: 100%;
   height: calc(100% - 80px); /* Adjust the height to cover the remaining space between footer and page body */
-  background-image: url("https://i.postimg.cc/g2WS39dH/doggie.webp");
+  background-image: url("https://i.imgur.com/GSEOPNw.jpg");
   background-repeat: repeat-y;
   background-size: cover; /* Set background-size to "cover" to make the image cover the entire container */
   opacity: 0.3;
