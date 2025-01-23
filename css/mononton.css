@@ -1,0 +1,118 @@
+/*****************************************
+reset.css
+******************************************/
+
+
+.Search {
+position: relative;
+z-index: 1;
+margin: 0 auto;
+text-align: center;
+}
+.Search div#wc-searchblack1 {
+width: 100%;
+margin: 0 auto;
+text-align: center;
+}
+.Search form#wc-searchblackbox1 {
+text-align: center;
+}
+.Search input#wc-searchblackinput1 {
+border-radius: 3px;
+border: none;
+color: #1111118c;
+font-size: 11px;
+border-radius: 25px;
+padding-left: 20px;
+padding-right: 20px;
+background-color: #fff;
+height: 40px;
+padding: 0;
+margin-left: .75rem!important;
+font-family: 'Almarai', sans-serif;
+padding-right: 20px;
+width: 300px;
+}
+.Search div#bl-pp0 {
+right: 0;
+}
+.Search input#wc-searchblacksubmit1 {
+color: #fff;
+left: 18px;
+background-color: #e72626;
+border-color: #e72626;
+font-weight: 700;
+width: 115px;
+font-family: 'Almarai', sans-serif;
+font-size: 13px;
+height: 30px;
+text-decoration: none;
+display: inline-block;
+padding: 0;
+border-radius: 25px;
+position: absolute;
+box-shadow: 0 0 0 0.2rem rgb(229 43 70 / 45%);
+top: -4px;
+}
+* {
+padding: 0;
+margin: 0;
+outline: 0;
+border: 0;
+box-sizing: border-box;
+}
+.MainCategoryList {
+position: relative;
+z-index: 2;
+display: block;
+text-align: center;
+padding-top: 1.25rem!important;
+width: 100%;
+margin: 0 auto;
+overflow: hidden;
+}
+.MainCategoryItem:hover {
+background: #24243b;
+}
+.Search {
+top: 5px;
+}
+
+.WatchButtons a span em {
+display: table;
+margin: 10px auto 0;
+font-size: 20px;
+font-weight: 700;
+font-style: normal;
+}
+
+::-webkit-scrollbar-thumb {
+background-color: #f24141;
+}
+.Search {
+float: left;
+}
+.Search input#wc-searchblackinput1 {
+top: 2px;
+position: relative;
+}
+body {
+overflow: hidden;
+}
+div#Label1 {
+display: none;
+}
+
+
+div#wc-searchblack1{padding:0;width:95%;display:block;margin:2px auto}
+form#wc-searchblackbox1{padding:0;margin:0 auto;width:100%;text-align:right;direction:rtl}
+input#wc-searchblackinput1{width:70%;padding:8px;padding-left:15px;margin:0;font:12px lolblogger;color:#999;border:1px solid #eee;
+background:rgba(255,255,255,1);
+background:-webkit-gradient(left top,left bottom,color-stop(0,rgba(255,255,255,1)),color-stop(47%,rgba(255,255,255,1)),color-stop(100%,rgba(247,247,247,1)));
+background:-webkit-linear-gradient(top,rgba(255,255,255,1) 0,rgba(255,255,255,1) 47%,rgba(247,247,247,1) 100%);
+background:linear-gradient(to bottom,rgba(255,255,255,1) 0,rgba(255,255,255,1) 47%,rgba(247,247,247,1) 100%);
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff',endColorstr='#f7f7f7',GradientType=0)}
+input#wc-searchblacksubmit1{width:20%;max-width:70px;padding:8px;margin:0;font:12px lolblogger;color:#FFF;border:1px solid transparent;background:#f9690e}
+div#bl-pp0{display:inline;position:relative;right:-9px}
+div#bl-pp0:before{display:inline-block;position:absolute;top:11px;right:-15px;margin-top:0;height:0;width:0;border:8px solid transparent;border-left-color:#f9690e}
+input#wc-searchblacksubmit1:hover{cursor:pointer}
