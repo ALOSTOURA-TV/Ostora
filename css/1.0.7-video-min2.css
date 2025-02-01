@@ -736,7 +736,7 @@ body.vjs-full-window {
   right: 0;
   height: 3em;
   background-color: #2B333F;
-  background-color: rgba(43, 51, 63, 0.7);
+  background-color: #000;
 }
 
 .vjs-has-started .vjs-control-bar,
